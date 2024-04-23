@@ -1,0 +1,35 @@
+---
+layout: posts
+title: "Fifth MDP Blog Post!"
+---
+# Introduction - TOTAL TIME: 18+ Hours
+Welcome to my Fifth blog post for this semester! I am going to be doing Studio Director for the next semester! I wasn't sure if that was something I should post here, but as of now it has officially been announced so I think its fine to put it here. I will outline the work and research that I have been doing in order to prepare for the upcoming summer cycle, as well as for the future of the Studio in general.
+
+# Weekly Meetings: 8 hours
+Each week we meet from around 11am-2pm. These meetings include general admin updates (like studio wide announcments, project updates, etc.). Then we do squad meetings, which this year, design starts with a presentation and production (me) creates tasks based on what we need to get done. Then after that, we split into department meetings where the department directors assign their department members tasks to do for the sprint.
+## This Sprint
+We are approaching the final weeks of Project Classic. All-in-all the current state of the game is that it is feature-complete. Albeit with a lot of bugs. So the meetings this week have been focused mainly around how to get Art implemented as fast as possible! Squad level meetings have mostly comprised of playtests, then after our production meetings would be focused on how to hit the finish line (Art Implementation and what not).
+# Production and Leads Meetings: 3 hours
+Every week we also meet from 5:30-7:00pm online as a weekly leads meeting. This is to ensure all leads are up-to-date regarding what is going on between squads. This week was to ensure that Narrative and Art direction were solidified before the general meeting. Also some Design and Programming things needed to get done. This sprints meetings contained just quick checkins as a lot of these things were planned beforehand.
+## This Sprint
+This week, leads meetings were again, about the state of the game, polish, bugs, and Art implmentation. I have talked about the state of Art in previous posts so I'm not sure if I should go about it again. If anything this should be a learning experience on how to conduct Art properly.
+# Production Process Improvement & Future Director Work: 3 hours+ (Honestly I'm not sure how much time I've put into it at this point)
+A lot of time in general has been spent doing a sort of Customer Discovery work for Studio. In the previous post I have stated that communication in Studio isn't the best. So to alleviate a little bit of this I have been trying to communicate with different members in different. And some trends that I have seen is that Leads (specifically Design Leads) want more time to plan into the semester. Getting basically 3 weeks (and not even using those 3 weeks fully) of pre-production work is simply NOT enough plaan for a quality semester-long game. Another one is that people would like to connect and get to know each other. Studio currently doesn't really hold any social events. This makes it quite difficult to get to know people, and as a result makes asking someone of something kind of difficult. It also has the added effect of kind of giving people a reason not to show up. Because people you don't know people, you wouldn't want to come in! 
+I would say this is backed up by my interview with someone currently in CLAWS. In the first month of CLAWS 30 minutes of each mass meeting is dedicated to ice breakers. You get to learn people names, play games with them, and generally bond. 
+This is something key that is missing in WolverinSoft Studio. A sense of community, belonging, and comraderie. I feel that if this was put in place a while ago, there wouldn't be such a hard time trying to point out issues within the Studio.
+There is the weird thing of how Studio is also apart of Club. So you need to sort of Schedule things out of the way of Club or have to ask Club for funds...? I kind of wish Studio had its own sort of funding currently. Apparently we've been trying to get donations for a while but that just has never happened. So thats kind of cool. 
+I also interviewed people in incredibly selective social clubs: Frats and Sororities. Well, professional ones. If we are aiming for prestige, why does a professional Frat have better hiring practices than our? I've heard a lot of em give design challenges as a part of their hiring process, or to work in a group as part of their hiring process. See if they dominate conversations, work together, etc. And the entire time I'm hearing this explanation, I'm thinking "hey that... makes a lot of sense". If you want to hire the right people for the right job, give them a task and see how they do it in the amount of time you give them. I should also preface that the current hiring process of WolverinSoft Studio is NOT STANDARDIZED. Doing different interviews with people, as well a my own experience has led me to see that some Leads will do interviews, some leads will NOT do ANY INTERVIEWS but just simply send a discord message asking people to answer some questions. Some... don't even do any of those at all and just onboard people. Its no wonder we get a constistently inconstistent quality of people in our Studio. Ranging from Rock Stars, to people who haven't showed up for the past HALF OF THE CYCLE. It has proved to be incredbily damaging to the morale as well as progress of the game that we have been trying to complete this semester. To further prove this point, in our Audio team, none of the audio assets had started at ALL until halfway through the development cycle... and not all of them have been completed yet. Currently 2-3 weeks out from release. It got to the point where we had to talk to an Audio member that hadn't showed up or communicated regularly and ask them if they still had time for Studio, which they ended up not having. Why they didn't tell anyone? I will say it again: the culture of the Studio does not facilitate comraderie nor open communication.
+
+But enough complaining here are some ways to mitigate this issue going forwards:
+- Having icebreakers during the first few weeks of production
+- Having a more rigorous hiring process to attempt to weed out people
+- Tracking attendance and being more strict on deadlines
+- More planning time! (This was outlined in my previous post! The summer will be used as a pre-production period for the upcoming semesters)
+
+
+# Prototype Playtesting and Case Study Playtesting: 2 hours
+I spent around 2 hours playtesting our prototype, as well as playing the case study.
+# Jira Tasks and other Admin Stuff: 2 hour
+Production is also in charge of inputting Jira Tasks, Spreadsheets, Art Asset Sheets, etc. These take a while and are a lot of busy work to do but are incredibly important to keeping track of what is and isn't getting done throughout the Project.
+![SP1-JiraImage](/images/SP1-Jira.png)
+# Conclusion
